@@ -1,2 +1,2 @@
 # itumac.github.io
-My website from 1998
+Tim Camuti's (Itumac) personal page
