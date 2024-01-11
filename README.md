@@ -17,4 +17,5 @@ Knowing how to code UI and front-end goes in and out of fashion with the role.
 My repos here in no way represent distinctive or important work I've done. A quick peek at them will confirm the veracity of that statement.
 
 Thanks for reading my snarky comments written here on January 11, 2024, after taking an hour to break back into my account and back up my current website [camuti.com](https://www.camuti.com/) 
+
 Tim
