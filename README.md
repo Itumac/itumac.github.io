@@ -12,6 +12,7 @@ Over the years, my given title has evolved:
 - 2010 – 2022 I'd be labeled a "UX designer"
 - 2000 – 2010 I'd be labeled a "UI/UX designer"
 - <2000 - "Web Designer" or even, "Graphics Designer"  <-- with an "S"
+- 
 Knowing how to code UI and front-end goes in and out of fashion with the role.
 My repos here in no way represent distinctive or important work I've done. A quick peek at them will confirm the veracity of that statement.
 
